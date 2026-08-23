@@ -2,7 +2,7 @@
 
 <div align="center">
 
-# Hi, I'm Mayibongwe 👋
+# Hi, I'm Mayibongwe 
 
 ### Final-year BSc Mathematical Statistics & Computer Science student @ 
 University of Johannesburg
@@ -26,7 +26,7 @@ Graduate Software Engineer role
 ---
 
 <<<<<<< HEAD
-### 🧠 About me
+###  About me
 
 I like building software that actually reasons about data, not just stores 
 it — a habit of my statistics background bleeding into my engineering. 
@@ -37,16 +37,16 @@ I've also spent a few years tutoring Mathematics and Statistics, which
 sharpened how I explain complex ideas simply — something that carries into 
 how I document and structure my code.
 
-- 🔭 Currently building **Censara**, a full-stack personal finance app 
+-  Currently building **Censara**, a full-stack personal finance app 
 with AI-driven spending insights
-- 🎓 Final-year student at the University of Johannesburg
-- 💼 Looking for Graduate Software Engineer / Graduate Developer 
+-  Final-year student at the University of Johannesburg
+-  Looking for Graduate Software Engineer / Graduate Developer 
 opportunities
-- 📫 Reach me at **mayibongwem139@gmail.com**
+-  Reach me at **mayibongwem139@gmail.com**
 
 ---
 
-### 🛠️ Tech Stack
+###  Tech Stack
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![Spring 
@@ -80,40 +80,6 @@ I've also spent a few years tutoring Mathematics and Statistics, which sharpened
 <<<<<<< HEAD
 ---
 
-### 📌 Featured Projects
-
-| Project | Description |
-|---|---|
-| 🏦 [**Censara – Spring 
-Boot**](https://github.com/sabatha31/Censara-Springboot) | Full-stack 
-personal finance app — REST APIs, PostgreSQL schemas, 
-income/expense/savings tracking with AI-driven insights |
-| 🌐 [**CensaraWeb**](https://github.com/sabatha31/CensaraWeb) | Web front 
-end for Censara |
-| ⛏️ [**Coal-Testing**](https://github.com/sabatha31/Coal-Testing) | ML 
-mini-project for coal quality detection using graph-based image analysis 
-and Graph Neural Networks |
-| 🖧 [**FXNetworkScanner**](https://github.com/sabatha31/FXNetworkScanner) 
-| JavaFX desktop app for scanning and testing network ports, with a 
-real-time GUI |
-| 🌳 [**DataStructures**](https://github.com/sabatha31/DataStructures) | 
-Java implementations of core data structures & algorithms |
-| 🖥️ [**Portfolio**](https://github.com/sabatha31/Portfolio) | My personal 
-portfolio site |
-
----
-
-### 📊 GitHub Stats
-
-<div align="center">
-
-![GitHub 
-stats](https://github-readme-stats.vercel.app/api?username=sabatha31&show_icons=true&theme=dark&hide_border=true&bg_color=0d1119&title_color=35e6e0&icon_color=35e6e0&text_color=e8edf3)
-![Top 
-Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sabatha31&layout=compact&theme=dark&hide_border=true&bg_color=0d1119&title_color=35e6e0&text_color=e8edf3)
-
-</div>
-=======
 
 >>>>>>> 54e929a (update)
 
