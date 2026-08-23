@@ -17,7 +17,7 @@ Graduate Software Engineer role
 ### Building backend systems and data-driven applications — looking for a Graduate Software Engineer role
 >>>>>>> 54e929a (update)
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-View-35e6e0?style=for-the-badge)]([https://github.com/sabatha31/Portfolio](https://portfolio-p99y.vercel.app/))
+[![Portfolio](https://img.shields.io/badge/Portfolio-View-35e6e0?style=for-the-badge)](https://portfolio-p99y.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-4d8bff?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mayibongwe-mathonsi-7287a42b8/)
 [![Email](https://img.shields.io/badge/Email-Contact-e8edf3?style=for-the-badge&logo=gmail&logoColor=black)](mailto:mayibongwem139@gmail.com)
 
