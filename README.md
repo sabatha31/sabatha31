@@ -44,14 +44,7 @@ with AI-driven spending insights
 opportunities
 -  Reach me at **mayibongwem139@gmail.com**
 
----
 
-###  Tech Stack
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Spring 
-Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
-=======
 ###  About me
 
 I like building software that actually reasons about data, not just stores it — a habit of my statistics background bleeding into my engineering. Practically that means Java, Spring Boot, PostgreSQL, and Python, backed by a strong grounding in probability and statistical modeling.
@@ -77,11 +70,6 @@ I've also spent a few years tutoring Mathematics and Statistics, which sharpened
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-<<<<<<< HEAD
----
-
-
->>>>>>> 54e929a (update)
 
 ---
 
