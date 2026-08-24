@@ -38,19 +38,6 @@ opportunities
 -  Reach me at **mayibongwem139@gmail.com**
 
 
-###  About me
-
-I like building software that actually reasons about data, not just stores it — a habit of my statistics background bleeding into my engineering. Practically that means Java, Spring Boot, PostgreSQL, and Python, backed by a strong grounding in probability and statistical modeling.
-
-I've also spent a few years tutoring Mathematics and Statistics, which sharpened how I explain complex ideas simply — something that carries into how I document and structure my code.
-
--  Currently building **Censara**, a full-stack personal finance app with AI-driven spending insights
--  Final-year student at the University of Johannesburg
--  Looking for Graduate Software Engineer / Graduate Developer opportunities
-- Reach me at **mayibongwem139@gmail.com**
-
----
-
 ###  Tech Stack
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
