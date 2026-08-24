@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 
 <div align="center">
 
@@ -11,11 +10,6 @@ Graduate Software Engineer role
 =======
 <div align="center">
 
-# Hi, I'm Mayibongwe 
-
-### Final-year BSc Mathematical Statistics & Computer Science student @ University of Johannesburg
-### Building backend systems and data-driven applications — looking for a Graduate Software Engineer role
->>>>>>> 54e929a (update)
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-View-35e6e0?style=for-the-badge)](https://portfolio-p99y.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-4d8bff?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mayibongwe-mathonsi-7287a42b8/)
@@ -25,7 +19,6 @@ Graduate Software Engineer role
 
 ---
 
-<<<<<<< HEAD
 ###  About me
 
 I like building software that actually reasons about data, not just stores 
@@ -62,7 +55,6 @@ I've also spent a few years tutoring Mathematics and Statistics, which sharpened
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
->>>>>>> 54e929a (update)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
